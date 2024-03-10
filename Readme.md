@@ -1,5 +1,5 @@
-# Rexname
-A tool for using RegEx to bulk rename files.
+# Rexname (regex-rename)
+A tool for using RegEx to bulk rename files. 
 
 ## Installation
 1. Clone or Download repo 
@@ -9,7 +9,7 @@ A tool for using RegEx to bulk rename files.
 
 ## Uninstall
 1. Using dotnet cli run the following commands
-   1. dotnet tool uninstall rexname
+   1. dotnet tool uninstall --global rexname
 
 ## Usage
 The rexname tool runs on the command line and you can access it's help information with the following command
